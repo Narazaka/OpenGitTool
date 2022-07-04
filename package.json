@@ -2,11 +2,12 @@
   "name": "net.narazaka.unity.opengittool",
   "version": "1.0.0",
   "displayName": "OpenGitTool",
-  "description": "Unity\u306e\u4eca\u306e\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u304b\u3089GitExtensions ( http://gitextensions.github.io )\u304bpowershell\u3092\u958b\u304f\u96d1\u306a\u30c4\u30fc\u30eb\u3067\u3059\u3002",
+  "description": "Unityの今のプロジェクトからGitExtensions ( http://gitextensions.github.io )かpowershellを開く雑なツールです。",
   "author": {
     "name": "Narazaka",
     "url": "https://github.com/Narazaka"
   },
-  "license": "CC0-1.0",
+  "license": "NYSL",
+  "licenseUrl": "http://www.kmonos.net/nysl/",
   "type": "tool"
 }

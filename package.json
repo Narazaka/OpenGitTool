@@ -8,5 +8,8 @@
     "url": "https://github.com/Narazaka"
   },
   "license": "CC0-1.0",
-  "type": "tool"
+  "type": "tool",
+  "legacyFolders": {
+    "Assets\\OpenGitTool": "a71b99f276861644a8ace6abc34b7603"
+  }
 }

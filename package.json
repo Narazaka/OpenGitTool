@@ -9,6 +9,7 @@
   },
   "license": "CC0-1.0",
   "type": "tool",
+  "url" : "https://github.com/Narazaka/OpenGitTool.git#v1.0.0",
   "legacyFolders": {
     "Assets\\OpenGitTool": "a71b99f276861644a8ace6abc34b7603"
   }
